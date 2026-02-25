@@ -129,7 +129,7 @@ header {
 /* ── NAV ─────────────────────────────────────────────────────────────── */
 nav {
   display: flex;
-  align-items: center;
+  align-items: right;
   gap: 4px;
 }
 
