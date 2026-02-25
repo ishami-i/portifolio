@@ -1,7 +1,7 @@
-# Irene Ishami – Professional Portfolio
+# Irené Ishami – Professional Portfolio
 
 ## About Me
-I am a Software Engineering student with strong interest in Python, Linux systems, backend development, and data-driven applications.  
+I am a Software Engineering student with a strong interest in Python, Linux systems, backend development, and data-driven applications.  
 This portfolio website showcases my technical projects, skills, and experience.
 
 ## Live Website
@@ -46,8 +46,8 @@ The website highlights:
 2. Open `index.html` in your browser
 
 ## Contact
-Email:
+1. Email:
     personal: i.ishami025@gmail.com
     school: i.irene@alustudent.com
-LinkedIn: https://www.linkedin.com/in/iren%C3%A9-ishami-908b85334/
-GitHub: https://github.com/ishami-i
+2. LinkedIn: https://www.linkedin.com/in/iren%C3%A9-ishami-908b85334/
+3. GitHub: https://github.com/ishami-i
